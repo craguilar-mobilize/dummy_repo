@@ -1,0 +1,28 @@
+[11/21/2022 14:36:48] Debug: Session id: 775098e0-daae-4a69-8bdc-051a3b9567bc
+[11/21/2022 14:36:48] Debug: Code Processor information: Name :SnowConvert, Version: 11.0.109.0
+[11/21/2022 14:36:49] Debug: Getting license
+[11/21/2022 14:36:49] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[11/21/2022 14:36:49] Info: Starting to validate parameters
+[11/21/2022 14:36:49] Info: Parameters to validate: 
+	Execution mode: Conversion
+	LICENSE_KEY: a3372138-b87e-4a08-b929-3b48b24c63f1
+[11/21/2022 14:36:49] Info: Validation of parameters: Success
+[11/21/2022 14:36:49] Debug: Getting code descriptor
+[11/21/2022 14:36:49] Debug: Code descriptor information
+	Units: 51
+	Units type: LOC
+	All file bytes: 2141
+	All found extensions: .sql,.dml,.ddl,.bteq,.btq,.fl,.fload,.ml,.mload,.mld,.tp,.tpump,.tpt
+[11/21/2022 14:36:49] Debug: Calculating fingerprint
+[11/21/2022 14:36:49] Debug: Fingerprint information Fingerprint(size=2141,projects=1)
+[11/21/2022 14:36:49] Info: Starting to try to validate online license for execution
+[11/21/2022 14:36:51] Debug: Getting license
+[11/21/2022 14:36:51] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[11/21/2022 14:36:51] Debug: Starting the execution of the controller
+[11/21/2022 14:36:52] Debug: Executing the worker: SnowConvert
+[11/21/2022 14:37:07] Debug: Finished executing the worker: SnowConvert
+[11/21/2022 14:37:09] Info: Controller execution ended
